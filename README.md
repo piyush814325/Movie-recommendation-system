@@ -17,6 +17,16 @@ This project is a Movie Recommender System built using Python and Streamlit. It 
    - Users select a movie from a dropdown menu.
    - Upon clicking the "Recommend" button, the app displays the top 5 recommended movies in a numbered format.
 
+##📦 Dependencies
+Streamlit: For building the interactive web app.
+Pandas: For handling movie data.
+Pickle: For loading preprocessed data and similarity matrix.
+
+##📈 Future Enhancements
+Add collaborative filtering for better recommendations.
+Deploy the app on a cloud platform for public access.
+Improve the UI for a more engaging user experience.
+
 ## 🖥️ How to Run
 ```sh
 # Clone the repository
@@ -28,4 +38,6 @@ pip install streamlit pandas
 
 # Run the Streamlit app
 streamlit run app.py
-  
+
+##🌟 Star the Repository!
+If you like this project, don't forget to give it a ⭐ on GitHub!
